@@ -1,3 +1,7 @@
+![image](https://github.com/TI0J0A0/DualShock-4-landing-page/assets/139718095/a0b682bb-523f-4e01-b288-8960077dbc8a)
+
+
+
 # DualShock 4 Landing Page
 
 Bem-vindo à nossa Landing Page dedicada ao DualShock 4, o excepcional controlador sem fio para o PlayStation 4!
@@ -29,3 +33,4 @@ Se você gostaria de contribuir para a melhoria desta Landing Page, siga estas e
 
 Estou aberto a contribuições e feedback!
 © 2023 Site Não Oficial
+
